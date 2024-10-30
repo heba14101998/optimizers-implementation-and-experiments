@@ -1,0 +1,7 @@
+Lab_*
+*.pyc
+draft.ipynb
+draft.py
+*.csv
+.vscode
+.venv
