@@ -2,6 +2,7 @@ Lab_*
 *.pyc
 draft.ipynb
 draft.py
+draft
 *.csv
 .vscode
 .venv
